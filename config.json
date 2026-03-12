@@ -1,5 +1,6 @@
 {
   "cache_time": 7200,
+  "image_proxy": "https://wsrv.nl/?url=",
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
